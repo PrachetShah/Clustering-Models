@@ -1,2 +1,14 @@
-# Clustering-Models
-K-Means Clustering and Heirarchical Clustering on Mall_Customers Dataset
+# Machine-Learning
+
+  - The Repository contains Machine Learning Clustering Algortihms Implemented by me in PYTHON for creating a cluster of different value objects
+
+# Algorithm used are :
+  1. Heirarchical Clustering
+  2. K-Means Clustering
+
+# Dataset used :
+
+  Mall_Customers.csv
+  
+
+
