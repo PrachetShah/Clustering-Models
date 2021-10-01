@@ -1,6 +1,6 @@
 # Machine-Learning
 
-  - The Repository contains Machine Learning Clustering Algortihms Implemented by me in PYTHON for creating a cluster of different value objects
+  - The Repository hosts Machine Learning Clustering Algortihms Implemented by me in PYTHON for creating a cluster of different value objects
 
 # Algorithm used are :
   1. Heirarchical Clustering
